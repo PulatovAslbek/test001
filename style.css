@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+caption {
+    border-radius: 15px 15px 0 0;
+    padding: 10px 15px;
+    border: 1px solid #000;
+}
+
+table, th, td {
+    padding: 10px 15px;
+    border-collapse: collapse;
+    border: 1px solid #000;
+}
